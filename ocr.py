@@ -138,8 +138,8 @@ def get_garment_from_label(label):
 
 
 def main():
-    n_train = 1000
-    n_test = 10
+    n_train = 2000
+    n_test = 20
     k = 7
     print(f'Dataset: {DATASET}')
     print(f'n_train: {n_train}')
